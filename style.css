@@ -1,0 +1,26 @@
+.title {
+    font: 1.5em sans-serif;
+    margin-bottom: 10px;
+}
+
+.button_functions {
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    background: burlywood;
+    border: none;
+    border-radius: 2px;
+    padding: 4px 4px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    font-family: sans-serif;
+    min-height: 40vh;
+    min-width: 470px;
+    width: 50vw;
+}
